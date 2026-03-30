@@ -1,4 +1,4 @@
-# WELCOME TO HUNGMAN
+# WELCOME TO HANGEDMAN
 - This is just a goofy little hangman clone that lets you put whatever images you'd like as lose graphics, win graphics, correc tor incorrect graphics, or even the heads of the hangmen!
 - You can even make custom lists! Maybe you'd like to use this for a classroom.
 - [DO NOT USE THIS FOR CLASSROOM PURPOSES AS THE GAME IS LOUD AND CHAOTIC]
