@@ -5,7 +5,7 @@
 # CREDITS
 - MOST OF what is used here is just random goofy placeholder images
 - I do not know who made the sounds, music, or any of that for that matter.
-- If you would like to bother me about content in the game or in the game packs, email me at scrunglebunky@tutanota.com
+- If you would like to bother me about content in the game or in the game packs, email me at ajchurchofficial@gmail.com
 
 HOW TO PLAY
 - Type an alphabetical character to guess it on the list.
@@ -47,7 +47,7 @@ TOOL TO CREATE TEXTLISTS
 MUSIC
 - The simplest one
 - Just drag a song file into the music folder (.mp3,.wav) and let it run.
-- Don't be stupid. Longer files will use too much ram.
+- There is no input handling for the files. Longer files will use too much ram. If you use a massive file on your own program and break it, that's on you.
 
 
 
